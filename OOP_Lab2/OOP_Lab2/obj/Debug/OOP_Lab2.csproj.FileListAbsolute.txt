@@ -1,0 +1,6 @@
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.exe.config
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.exe
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.pdb
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.csprojResolveAssemblyReference.cache
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.exe
+E:\Projects\C#\OOP2Sem\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.pdb
